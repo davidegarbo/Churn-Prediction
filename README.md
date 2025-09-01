@@ -1,15 +1,15 @@
-🔮 Churn Prediction Analysis
+**🔮 Churn Prediction Analysis**
 A comprehensive machine learning project for predicting customer churn using multiple algorithms, feature importance analysis, and robust preprocessing.
-📊 Project Overview
+**📊 Project Overview**
 This project implements a complete churn prediction pipeline that:
 
-Performs exploratory data analysis (EDA)
+**Performs exploratory data analysis (EDA)**
 Handles data preprocessing with mixed data types
 Trains and evaluates multiple ML models
 Analyzes feature importance
 Tests model robustness by removing the most important feature
 
-🚀 Features
+**🚀 Features**
 
 Multiple ML Algorithms: Logistic Regression, Random Forest, and XGBoost
 Comprehensive EDA: Visualizations for churn distribution, correlations, and categorical analysis
@@ -19,7 +19,7 @@ Model Comparison: Before and after dropping the most important feature
 Professional Visualizations: ROC curves, confusion matrices, and feature importance plots
 
 
-📈 Expected Output
+**📈 Expected Output**
 The analysis provides:
 
 Data Overview: Dataset shape, column info, and target distribution
@@ -30,7 +30,7 @@ ROC Curves: Model discrimination ability
 Feature Importance: Top 15 most influential features
 Robustness Testing: Performance comparison after removing the top feature
 
-🎯 Model Performance Metrics
+**🎯 Model Performance Metrics**
 Each model is evaluated using:
 
 Accuracy: Overall correctness
@@ -40,7 +40,7 @@ F1-Score: Harmonic mean of precision and recall
 ROC-AUC: Area under the ROC curve
 Confusion Matrix: Detailed prediction breakdown
 
-🔍 Feature Importance Analysis
+**🔍 Feature Importance Analysis**
 The XGBoost model provides insights into:
 
 Most influential features for churn prediction
