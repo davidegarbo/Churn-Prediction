@@ -8,27 +8,19 @@ This project implements a complete churn prediction pipeline that:
 
 **Performs exploratory data analysis (EDA)**
 
-Handles data preprocessing with mixed data types
-
-Trains and evaluates multiple ML models
-
-Analyzes feature importance
-
-Tests model robustness by removing the most important feature
+- Handles data preprocessing with mixed data types
+- Trains and evaluates multiple ML models
+- Analyzes feature importance
+- Tests model robustness by removing the most important feature
 
 **🚀 Features**
 
-Multiple ML Algorithms: Logistic Regression, Random Forest, and XGBoost
-
-Comprehensive EDA: Visualizations for churn distribution, correlations, and categorical analysis
-
-Robust Preprocessing: Handles both numerical and categorical features with proper imputation
-
-Feature Importance Analysis: Identifies and visualizes the most influential features
-
-Model Comparison: Before and after dropping the most important feature
-
-Professional Visualizations: ROC curves, confusion matrices, and feature importance plots
+- Multiple ML Algorithms: Logistic Regression, Random Forest, and XGBoost
+- Comprehensive EDA: Visualizations for churn distribution, correlations, and categorical analysis
+- Robust Preprocessing: Handles both numerical and categorical features with proper imputation
+- Feature Importance Analysis: Identifies and visualizes the most influential features
+- Model Comparison: Before and after dropping the most important feature
+- Professional Visualizations: ROC curves, confusion matrices, and feature importance plots
 
 
 **📈 Expected Output**
