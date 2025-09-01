@@ -27,44 +27,30 @@ This project implements a complete churn prediction pipeline that:
 
 The analysis provides:
 
-Data Overview: Dataset shape, column info, and target distribution
-
-EDA Visualizations: Churn distribution, correlation heatmaps, and categorical breakdowns
-
-Model Performance: Accuracy, precision, recall, F1-score, and ROC-AUC for each model
-
-Confusion Matrices: Visual representation of model predictions
-
-ROC Curves: Model discrimination ability
-
-Feature Importance: Top 15 most influential features
-
-Robustness Testing: Performance comparison after removing the top feature
+- Data Overview: Dataset shape, column info, and target distribution
+- EDA Visualizations: Churn distribution, correlation heatmaps, and categorical breakdowns
+- Model Performance: Accuracy, precision, recall, F1-score, and ROC-AUC for each model
+- Confusion Matrices: Visual representation of model predictions
+- ROC Curves: Model discrimination ability
+- Feature Importance: Top 15 most influential features
+- Robustness Testing: Performance comparison after removing the top feature
 
 **🎯 Model Performance Metrics**
 
 Each model is evaluated using:
 
-Accuracy: Overall correctness
-
-Precision: True positive rate among predicted positives
-
-Recall: True positive rate among actual positives
-
-F1-Score: Harmonic mean of precision and recall
-
-ROC-AUC: Area under the ROC curve
-
-Confusion Matrix: Detailed prediction breakdown
+- Accuracy: Overall correctness
+- Precision: True positive rate among predicted positives
+- Recall: True positive rate among actual positives
+- F1-Score: Harmonic mean of precision and recall
+- ROC-AUC: Area under the ROC curve
+- Confusion Matrix: Detailed prediction breakdown
 
 **🔍 Feature Importance Analysis**
 
 The XGBoost model provides insights into:
 
-Most influential features for churn prediction
-
-Feature importance scores and rankings
-
-Visual representation of top features
-
-Impact assessment when removing the most important feature
+- Most influential features for churn prediction
+- Feature importance scores and rankings
+- Visual representation of top features
+- Impact assessment when removing the most important feature
