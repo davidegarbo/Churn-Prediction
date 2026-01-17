@@ -5,7 +5,7 @@ Churn Prediction Analysis
 A comprehensive machine learning project for predicting customer churn using multiple algorithms,
 feature importance analysis, and robust preprocessing.
 
-Author: [Davide Garbo]
+Author: Davide Garbo
 Date: September 2025
 """
 
@@ -102,3 +102,4 @@ def process_target(df, target_col):
         print(f"⚠️  Rows dropped due to missing target: {dropped_rows}")
     
     return df
+
