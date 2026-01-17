@@ -489,10 +489,7 @@ def main():
                     
                     feature_importance_df2 = analyze_feature_importance(xgb_pipeline_new, X_train2, feature_names2)
     
-    print("\n" + "="*70)
     print("✅ ANALYSIS COMPLETE!")
-    print("="*70)
-    print("🎉 Thank you for using the Churn Prediction Analysis tool!")
 
 # ---- 10) Run Analysis --------------------------------------------------
 if __name__ == "__main__":
